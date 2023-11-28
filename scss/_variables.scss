@@ -1,0 +1,32 @@
+// font
+
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;600;700&display=swap");
+
+$font-family: "Lato", "open-sans";
+
+$font-weight-regular: 400;
+$font-weight-semiBold: 600;
+$font-weight-bold: 700;
+
+$font-size-small: 13px;
+$font-size-regular: 15px;
+$font-size-medium: 18px;
+
+$font-size-small-title: 15px;
+$font-size-medium-title: 22px;
+$font-size-large-title: 27px;
+$font-size-extra-large-title: 60px;
+
+$line-height-regular: 24px;
+$line-height-medium: 48px;
+$line-height-large: 72px;
+
+// colors
+$color-primary: #000000;
+$color-secondary: #a4a4a4;
+$color-tertiary: #2563ff;
+$color-success: #40975f;
+$color-gray: #535353;
+$color-white: #fff;
+$color-red: #e85f37;
+$color-graish: #525252;

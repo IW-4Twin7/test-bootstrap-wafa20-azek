@@ -1,0 +1,136 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;600;700&display=swap");
+.navTitle {
+  font-size: 15px;
+  color: #a4a4a4;
+  font-family: "Lato", "open-sans";
+  font-weight: 700;
+  line-height: 0px;
+}
+.navTitle:hover {
+  color: #e85f37;
+}
+
+.navbar-brand {
+  font-size: 27px;
+  letter-spacing: -2px;
+  color: #000000;
+  font-weight: 700;
+  font-family: "Lato", "open-sans";
+  text-align: left;
+}
+
+.sep {
+  width: 6rem;
+}
+@media (max-width: 480px) {
+  .sep {
+    width: 3rem;
+  }
+}
+@media (min-width: 480px) and (max-width: 767px) {
+  .sep {
+    width: 3rem;
+  }
+}
+
+.titre {
+  font-size: 22px;
+  font-weight: 600;
+  color: #000000;
+}
+@media (max-width: 480px) {
+  .titre {
+    font-size: 8.8px;
+  }
+}
+@media (min-width: 480px) and (max-width: 767px) {
+  .titre {
+    font-size: 11px;
+  }
+}
+@media (min-width: 767px) and (max-width: 992px) {
+  .titre {
+    font-size: 22px;
+  }
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+  .titre {
+    font-size: 15.4px;
+  }
+}
+
+.description {
+  font-size: 15px;
+  font-weight: 400;
+  color: #535353;
+  line-height: 24px;
+}
+@media (max-width: 480px) {
+  .description {
+    font-size: 7.2px;
+    line-height: 14.4px;
+  }
+}
+
+.tag {
+  font-size: 12px;
+  line-height: 0px;
+  color: #535353;
+  font-weight: 700;
+  font-family: "Open Sans";
+  text-align: left;
+}
+@media (max-width: 480px) {
+  .tag {
+    font-size: 7.2px;
+    line-height: 14.4px;
+  }
+}
+
+.button {
+  width: 124px;
+  height: 26px;
+  border-radius: 5px;
+  border: 1px;
+  border: #e85f37;
+  border-style: solid;
+  background-color: transparent;
+  color: #e85f37;
+  font-family: "Lato", "open-sans";
+  font-weight: 700;
+  font-size: 13px;
+  text-align: left;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.buttonp {
+  width: 135px;
+  height: 35px;
+  border-radius: 5px;
+  border: 1px;
+  background-color: #000000;
+  color: #fff;
+  font-family: "Font Awesome";
+  font-weight: 700;
+  font-size: 13px;
+  text-align: left;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.footersubtitle {
+  font-size: 13px;
+  font-weight: 400;
+  color: #525252;
+  font-family: "Lato", "open-sans";
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-align: left;
+}
+
+.footer {
+  height: 10%;
+}
+
+/*# sourceMappingURL=style.css.map */
